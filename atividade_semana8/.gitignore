@@ -1,0 +1,5 @@
+# Não enviar as credenciais do banco
+
+config/database.ini
+
+logs/*.log
